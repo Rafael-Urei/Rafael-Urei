@@ -5,6 +5,7 @@
 <body>
   <div>
     <h1>Olá! Sou o Rafael, prazer :)</h1>
+    <p>Sou um desenvolvedor Front-End Júnior, um Padawan em busca de se tornar Jedi.</p>
   </div>
   <div>
     <div>
