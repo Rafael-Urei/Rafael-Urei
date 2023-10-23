@@ -5,7 +5,7 @@
 <body>
   <div>
     <h1>Olá! Sou o Rafael, prazer :)</h1>
-    <p>Sou um desenvolvedor Front-End Júnior, um Padawan em busca de se tornar Jedi.</p>
+    <p>Desenvolvedor Front-End Júnior.</p>
     <p>Nas horas vagas eu faço artes 2D ou modelagens 3D: <a href='https://www.artstation.com/rafael_urei' target='_blank'>Meu Artstation</a></p>
   </div>
   <div>
