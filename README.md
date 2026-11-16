@@ -3,10 +3,9 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
 <body>
-  <div>
-    <h1>Olá! Sou o Rafael, prazer :)</h1>
-    <p>Desenvolvedor Front-End Sênior.</p>
-    <p>Nas horas vagas eu faço artes 2D ou modelagens 3D: <a href='https://www.artstation.com/rafael_urei' target='_blank'>Meu Artstation</a></p>
+  <div align="center">
+    <h1>Hi!</h1>
+    <p>Front-end Engineer</p>
   </div>
   <div style="background-color: #000000;">
     <div>
